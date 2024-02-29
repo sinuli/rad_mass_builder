@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "office": 63.0,
+            "meeting_room": 17.0,
+            "total": 80.0
+        },
+        {
+            "tool_room": 25.0,
+            "storage": 10.0,
+            "total": 35.0
+        },
+        {
+            "community_corridor": 225.0,
+            "toilet": 64.0,
+            "mech_room": 35.0,
+            "total": 324.0
+        }
+    ],
+    [
+        {
+            "office": 63.0,
+            "meeting_room": 17.0,
+            "total": 80.0
+        },
+        {
+            "tool_room": 25.0,
+            "storage": 10.0,
+            "total": 35.0
+        },
+        {
+            "community_corridor": 225.0,
+            "total": 225.0
+        },
+        {
+            "toilet": 64.0,
+            "stair": 40.0,
+            "mech_room": 35.0,
+            "total": 139.0
+        }
+    ],
+    [
+        {
+            "office": 63.0,
+            "meeting_room": 17.0,
+            "community_corridor": 225.0,
+            "toilet": 64.0,
+            "stair": 40.0,
+            "total": 409.0
+        },
+        {
+            "mech_room": 35.0,
+            "tool_room": 25.0,
+            "storage": 10.0,
+            "total": 70.0
+        }
+    ]
+]

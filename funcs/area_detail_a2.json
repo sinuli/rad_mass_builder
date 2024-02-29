@@ -1,0 +1,44 @@
+[
+    [
+        {
+            "exhibit_experience": 105.0,
+            "experience2": 42.0,
+            "exhibit_planning_room": 18.0,
+            "total": 165.0
+        },
+        {
+            "discuss_room": 22.0,
+            "program1": 57.0,
+            "program2": 45.0,
+            "total": 124.0
+        },
+        {
+            "unman_cafe": 42.0,
+            "kitchen": 22.0,
+            "kitchen_storage": 15.0,
+            "total": 79.0
+        },
+        {
+            "reception": 6.0,
+            "total": 6.0
+        }
+    ],
+    [
+        {
+            "exhibit,experience": 105.0,
+            "experience2": 42.0,
+            "discuss_room": 22.0,
+            "program1": 57.0,
+            "program2": 45.0,
+            "exhibit_planning_room": 18.0,
+            "reception": 6.0,
+            "total": 295.0
+        },
+        {
+            "unman_cafe": 42.0,
+            "kitchen": 22.0,
+            "kitchen_storage": 15.0,
+            "total": 79.0
+        }
+    ]
+]
